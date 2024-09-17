@@ -1,7 +1,7 @@
 Package: mlr3superlearner
 Type: Package
 Title: Super Learner Fitting and Prediction
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     c(person(given = "Nicholas",
              family = "Williams",
@@ -19,9 +19,9 @@ Depends: mlr3learners
 Suggests: ranger, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-08-30 17:30:16 UTC; nicholaswilliams
+Packaged: 2024-09-17 16:08:19 UTC; nicholaswilliams
 Author: Nicholas Williams [aut, cre, cph]
     (<https://orcid.org/0000-0002-1378-4831>)
 Maintainer: Nicholas Williams <ntwilliams.personal@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-09-04 13:00:02 UTC
+Date/Publication: 2024-09-17 16:30:06 UTC
